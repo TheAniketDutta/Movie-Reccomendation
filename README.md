@@ -4,6 +4,8 @@ Content based movie recommendation system using cosine similarity
 
 Here is the working video uploaded on [**Youtube**](https://youtu.be/nMZ4zkyvYfs).
 
+[![Watch the video](https://img.youtube.com/vi/nMZ4zkyvYfs/maxresdefault.jpg)](https://www.youtube.com/embed/nMZ4zkyvYfs)
+
 ## Types of recommendation System
 
   
